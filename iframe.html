@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script src="https://cdn.socket.io/4.4.1/socket.io.min.js" crossorigin="anonymous"></script>
+        <script src="https://play.workadventu.re/iframe_api.js"></script>
+
+        <script>
+            console.log("iframe");
+
+            const options = {
+            path: '/socket.io4',
+            transports: ['websocket'],
+            withCredentials: true,
+
+            };
+
+            const socket = io('https://k2018-2.jamespot.pro', options);
+
+            socket.on('connect', function () {
+                console.log('Connected');
+                socket.on("message", function (m) {
+                console.log('message', m);
+            });
+        });
+
+        </script>
+
+    </head>
+    <body>
+        <h1>Hello</h1>
+    </body>
+</html>
