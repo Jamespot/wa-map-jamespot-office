@@ -66,10 +66,10 @@ WA.onInit().then(async () => {
                         if ( prop.value == 'slug') {
                             const playStr = playUriParse(WA.room.id);
                             const msg = {"action": "goto", "value": 'https://' + playStr.slug + '/?action=goOAuth&serviceName=myjamespot', "type": "external"};
-                            window.top.postMessage(msg, '*');
+                            window?.top?.postMessage(msg, '*');
                         } else {
                             const msg = {"action": "goto", "value": prop.value, "type": "external"};
-                            window.top.postMessage(msg, '*');
+                            window?.top?.postMessage(msg, '*');
                         }
                     })
                 } 
