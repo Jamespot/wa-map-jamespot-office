@@ -65,9 +65,11 @@ WA.onInit().then(async () => {
                     WA.room.onEnterLayer(key).subscribe(() => {
                         if ( prop.value == 'slug') {
                             const playStr = playUriParse(WA.room.id);
-                            WA.nav.goToPage('https://' + playStr.slug + '/?action=goOAuth&serviceName=myjamespot');
+                            const msg = {"action": "goto", "value": 'https://' + playStr.slug + '/?action=goOAuth&serviceName=myjamespot', "type": "external"};
+                            window?.top?.postMessage(msg, '*');
                         } else {
-                            WA.nav.goToPage(prop.value);
+                            const msg = {"action": "goto", "value": prop.value, "type": "external"};
+                            window?.top?.postMessage(msg, '*');
                         }
                     })
                 } 
