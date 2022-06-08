@@ -68,8 +68,11 @@ WA.onInit().then(async () => {
                             const msg = {"action": "goto", "value": 'https://' + playStr.slug + '/?action=goOAuth&serviceName=myjamespot', "type": "external"};
                             window?.top?.postMessage(msg, '*');
                         } else {
-                            const msg = {"action": "goto", "value": prop.value, "type": "external"};
-                            window?.top?.postMessage(msg, '*');
+                            try {
+                                window?.top?.postMessage(JSON.parse(prop.value), '*');
+                            } catch (error) {
+                                
+                            }
                         }
                     })
                 } 
