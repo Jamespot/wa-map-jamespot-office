@@ -70,7 +70,7 @@
                 {
                  "name":"goto",
                  "type":"string",
-                 "value":"https:\/\/jamespot-land.jamespot.pro\/jland\/ascenseur"
+                 "value":"{\"action\": \"goto\", \"value\": \"\/orient-express\", \"type\": \"internal\"}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -200,7 +200,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.8.5",
  "tileheight":32,
  "tilesets":[
         {
