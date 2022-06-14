@@ -109,9 +109,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"goto",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"slug"
+                 "value":"slug-office"
                 }],
          "type":"tilelayer",
          "visible":true,

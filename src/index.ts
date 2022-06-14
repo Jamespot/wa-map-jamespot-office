@@ -54,12 +54,13 @@ function playUriParse(url: string): {
 
 WA.onInit().then(async () => {
     let layers = await getLayersMap();
-    console.log('Current player name: ', WA.player.name);
+    console.log('Current player name : ', WA.player.name);
     console.log(layers);
 
     layers.forEach((val,key) => {
         if (val && val.properties) {
             val.properties.forEach( prop => {
+                console.log(prop);
                 if (prop.type=='string' && prop.name=='goto') {
                     console.log("GotoLayer : " + key);
                     WA.room.onEnterLayer(key).subscribe(() => {
@@ -75,6 +76,16 @@ WA.onInit().then(async () => {
                             }
                         }
                     })
+                } 
+                if (prop.type=='string' && prop.name=='exitUrl' && prop.value=='slug-lobby') {
+                    console.log("slug-lobby ExitUrl in " + key);
+                    const playStr = playUriParse(WA.room.id);
+                    WA.room.setProperty(key, "exitUrl", 'https://play/@/' + playStr.slug + '/jpro/lobby');
+                } 
+                if (prop.type=='string' && prop.name=='exitUrl' && prop.value=='slug-office') {
+                    console.log("slug-office ExitUrl in " + key);
+                    const playStr = playUriParse(WA.room.id);
+                    WA.room.setProperty(key, "exitUrl", 'https://play/@/' + playStr.slug + '/jpro/office');
                 } 
             });
         }
