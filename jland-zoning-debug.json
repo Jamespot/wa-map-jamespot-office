@@ -1430,7 +1430,7 @@
          "columns":8,
          "firstgid":13,
          "image":"src\/assets\/BaseChip_pipo.png",
-         "imageheight":4256,
+         "imageheight":4096,
          "imagewidth":256,
          "margin":0,
          "name":"BaseChip_pipo",
