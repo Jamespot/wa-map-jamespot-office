@@ -195,7 +195,7 @@
                 {
                  "name":"goto",
                  "type":"string",
-                 "value":"{\"action\": \"goto\", \"value\": \"\/orient-express\", \"type\": \"internal\"}"
+                 "value":"{\"action\": \"goto\", \"value\": \"\/airspot\", \"type\": \"internal\"}"
                 }],
          "type":"tilelayer",
          "visible":true,
