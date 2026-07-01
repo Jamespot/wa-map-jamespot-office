@@ -593,7 +593,7 @@
         {
          "columns":107,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/Desktop\/background.png",
+         "image":"background.png",
          "imageheight":2688,
          "imagewidth":3424,
          "margin":0,
@@ -606,7 +606,7 @@
         {
          "columns":59,
          "firstgid":8989,
-         "image":"..\/..\/..\/..\/Desktop\/Murs.png",
+         "image":"Murs.png",
          "imageheight":2064,
          "imagewidth":1889,
          "margin":0,
@@ -619,7 +619,7 @@
         {
          "columns":107,
          "firstgid":12765,
-         "image":"..\/..\/..\/..\/Desktop\/Barri\u00e8res.png",
+         "image":"Barri\u00e8res.png",
          "imageheight":72,
          "imagewidth":3424,
          "margin":0,
@@ -632,7 +632,7 @@
         {
          "columns":6,
          "firstgid":12979,
-         "image":"..\/..\/..\/..\/Desktop\/WA_Special_Zones.png",
+         "image":"WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
