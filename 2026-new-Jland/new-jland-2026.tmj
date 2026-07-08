@@ -1251,6 +1251,12 @@
  "nextlayerid":19,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"map.png"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.12.2",
  "tileheight":32,
