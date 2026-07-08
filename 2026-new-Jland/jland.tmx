@@ -3,6 +3,9 @@
  <editorsettings>
   <export target="new-jland-2026.tmj" format="json"/>
  </editorsettings>
+ <properties>
+  <property name="mapImage" value="map.png"/>
+ </properties>
  <tileset firstgid="1" name="background" tilewidth="32" tileheight="32" tilecount="8988" columns="107">
   <image source="background.png" width="3424" height="2688"/>
  </tileset>
