@@ -578,7 +578,7 @@
  </layer>
  <layer id="24" name="dali" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="klimt"/>
+   <property name="jitsiRoom" value="dali"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
