@@ -211,9 +211,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="19" name="degas" width="107" height="84">
+ <layer id="19" name="nice" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="degas"/>
+   <property name="jitsiRoom" value="nice"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
@@ -303,9 +303,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="20" name="renoir" width="107" height="84">
+ <layer id="20" name="lyon" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="renoir"/>
+   <property name="jitsiRoom" value="lyon"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
@@ -395,9 +395,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="21" name="matisse" width="107" height="84">
+ <layer id="21" name="annecy" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="matisse"/>
+   <property name="jitsiRoom" value="annecy"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
@@ -487,9 +487,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="22" name="klimt" width="107" height="84">
+ <layer id="22" name="metz" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="klimt"/>
+   <property name="jitsiRoom" value="metz"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
@@ -856,9 +856,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="26" name="vangogh" width="107" height="84">
+ <layer id="26" name="lille" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="vangogh"/>
+   <property name="jitsiRoom" value="lille"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
@@ -948,9 +948,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="27" name="vinci" width="107" height="84">
+ <layer id="27" name="rennes" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="vinci"/>
+   <property name="jitsiRoom" value="rennes"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
@@ -1040,9 +1040,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="28" name="monet" width="107" height="84">
+ <layer id="28" name="nantes" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="monet"/>
+   <property name="jitsiRoom" value="nantes"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
@@ -1132,9 +1132,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="29" name="pissaro" width="107" height="84">
+ <layer id="29" name="montauban" width="107" height="84">
   <properties>
-   <property name="jitsiRoom" value="pissaro"/>
+   <property name="jitsiRoom" value="montauban"/>
    <property name="jitsiUrl" value="visio.jamespot.pro"/>
   </properties>
   <data encoding="csv">
